@@ -1,0 +1,186 @@
+.head{
+
+	width: 100%;
+	background-color: black;
+}
+
+.hide {
+	display: none;
+}
+
+header {
+	position: fixed;
+	width: 100%;
+	z-index: 1;
+	background: grey;
+	height: 9vh;
+}
+
+.headerLogo{
+
+	height: 8vh;
+}
+
+.logoTwo {
+
+	height: 10vh;
+	padding-left: 3%;
+}
+
+.mainSect{
+
+	background-color: beige;
+	height: 100vh;
+	width: 100%;
+}
+
+.cityGroup {
+
+	width: 60%;
+	text-align: center;
+
+}
+
+.centerText {
+
+	text-align: center;
+	color: black;
+}
+
+.jumbotron {
+
+	height: 100vh;
+	width: 100%;
+	background-repeat: no-repeat;
+}
+
+.buttonSearch {
+
+	margin-top: 2%;
+	padding-left: 2%;
+	padding-right: 2%;
+
+}
+
+
+.typeahead{
+
+	width: 100%
+}
+
+.overLay {
+
+	background-color: rgba(255,255,255,.5);
+	color: black;
+	width: 50%; 
+	padding: 30px;
+	margin-left: 25%;
+}
+
+.modalLaunch{
+	margin-top: 3%;
+	width: 20%;
+}
+
+.homePage {
+
+	margin-top: 5%;
+}
+
+.card {
+
+	border: red solid;
+}
+
+.section {
+	position: relative;
+}
+
+.modal {
+
+position: relative;
+}
+
+.section.one {
+	background-image: url(../images/night.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+
+
+h2 {
+
+	font-weight: bold;
+	font-family: cursive;
+}
+
+.section{
+	background-color: black;
+	color: grey;
+	text-align: center;
+}
+
+
+.selectionImage {
+
+	width: 100%;
+}
+
+
+.list {
+	border: solid;
+	padding: 3%;
+	font-size: 20px;
+	font-family: Calibri;
+}
+
+
+.hotelImages {
+
+	width: 20%;
+}
+
+.selectionHotel {
+
+	width: 40%;
+}
+
+.right {
+
+	float: right;
+}
+
+.left {
+
+	float: left;
+}
+
+
+.fp-enabled .modal{
+   position:fixed !important;
+}
+
+.col {
+
+	padding:10%;
+}
+
+.information {
+	margin-top: 5%;
+}
+
+.accommodationType {
+
+	padding-top: 2%;
+}
+
+
+.show {
+	display: all;
+}
+
+.goLeft {
+
+	background-color: red;
+}
